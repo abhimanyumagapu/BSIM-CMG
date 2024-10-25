@@ -6,7 +6,7 @@ delay, and power dissipation in basic digital circuit elements.
 The model was carefully calibrated, with key parameters adjusted to ensure accurate representation; all other parameters not mentioned were retained at their default values.
 The fitting procedure and steps followed in this project have been written down in detail and all assumptions have been stated.
 
-For this project, I used the latest version of BSIM-CMG available at the project’s start (V111.2) to model the NWFET.
+For this project, I used the latest version of BSIM-CMG available at the project’s start (V111.2.1) to model the NWFET.
 
 The I-V and C-V characteristics were individually fitted, with goodness-of-fit metrics calculated to ensure accuracy. 
 Python and Desmos were utilized extensively for curve fitting and parameter extraction, enabling precise alignment with the TCAD simulation data.
